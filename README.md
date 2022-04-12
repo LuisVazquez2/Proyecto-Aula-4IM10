@@ -1,3 +1,5 @@
 # Proyecto-Aula
 4IM10
-The Code.cpp is all the code and usuarios.dat is the file necessary for using the login,despedida.out is the file for end the program that is many special due i did this for saw really good own program , so your job is correction the grammar and bugs.
+School project, to get a register of users than have presented a cyber attack and send a the authorities and help the people.
+This make a archive than sort the problems of gravity and return a the user a list for take actions and to be able help the people.(The archive take the name than you want)
+Usuarios.dat is the file needed to using the login  and that one validate the users
